@@ -9,6 +9,11 @@ WeBlog is a Java-based web application that allows users to share their blogs. U
 - **JDBC**: Java Database Connectivity for interacting with the PostgreSQL database.
 - **Spring Security**: For password encryption.
 - **Docker Containers**: For containerizing the application to ensure consistency across different environments.
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Project Structure
 The project follows a modular structure organized into several packages:
@@ -125,4 +130,3 @@ The application provides the following functionalities:
    ```bash
    git clone <repository_url>
    cd weblog
-
