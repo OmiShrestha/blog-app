@@ -9,6 +9,7 @@ WeBlog is a Java-based web application that allows users to share their blogs. U
 - **JDBC**: Java Database Connectivity for interacting with the PostgreSQL database.
 - **Spring Security**: For password encryption.
 - **Docker Containers**: For containerizing the application to ensure consistency across different environments.
+  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
